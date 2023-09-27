@@ -2,7 +2,7 @@ import React from 'react'
 import { Avatar } from 'antd';
 import arrowIcon from "../assets/icons/arrowIcon.png"
 import noteIcon from "../assets/icons/noteIcon.png"
-import noteBookIcon from "../assets/icons/noteBookIcon.png"
+import noteBookIcon from "../assets/icons/NotebookIcon.png"
 import settingsIcon from "../assets/icons/SettingsIcon.png"
 import heartIcon from "../assets/icons/heartIcon.png"
 import homeIcon from "../assets/icons/homeIcon.png"
